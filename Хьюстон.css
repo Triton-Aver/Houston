@@ -1,0 +1,30 @@
+body {
+    align-content: center;
+    width: 50%;
+    padding-left: 10%; /* Отступ слева */
+    padding-right: 10%; /* Отступ справа */
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.erd
+{
+    float: right;
+}
+
+figcaption{
+    font-style: italic;
+       }
+
+table, td, th, caption {
+    border: 1px solid black; /* Граница вокруг таблицы */
+    }    
+   h1, h2 {
+       font-family: Arial, Helvetica, sans-serif;
+       margin-bottom: 1.5 em;
+   }
+
+   h1 {
+       font-size: 32px;
+   }
+   
