@@ -1,4 +1,6 @@
 body {
+    display: flex;
+    flex-direction: column;
     align-content: center;
     width: 50%;
     padding-left: 10%; /* Отступ слева */
@@ -10,6 +12,7 @@ body {
 .erd
 {
     float: right;
+    padding-left: 0px;
 }
 
 figcaption{
